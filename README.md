@@ -87,6 +87,12 @@
 
 Below mentioned are the steps to install, configure & run in your platform/distributions.
 
+Create .env file by copy from .env.example
+
+```bash
+cp .env.example .env
+```
+
 ```bash
 # Without Docker
 
